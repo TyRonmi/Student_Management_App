@@ -1,6 +1,7 @@
 # Student_Management_App
-A CRUD application for managing students' records
-This application has been converted to a desktop app and is currently being deployed to at least two schools for managing students' records 
+A CRUD application for managing students' records.
+
+This application can be converted to a desktop app and deployed to schools for managing students' records, as illustrated below.
 
 ![1](https://github.com/TyRonmi/Student_Management_App/assets/113307137/0ca827d4-c963-474b-996e-2d776e7a9ba1)
 
